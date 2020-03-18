@@ -6,8 +6,9 @@
 
 #### Requirements:
 - User able to add new todo task.
+- User able to check or edit the todo task.
 - User able to see all the tasks in a listview.
-- User can navigate to different pages by bottom navigation bar.
+- User can navigate to different pages by bottom navigation bar (Listing Page and Profile Page).
 
 #### Pages:
 - Login Page (without the credential checking, just navigate to the homepage)
