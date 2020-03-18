@@ -21,3 +21,8 @@
 - Build the app by following MVP architecture.
 - User can switch app to light/dark mode.
 - Dynamic font types)
+
+#### Instruction
+- Open a new flutter project with latest version. (stable channel)
+- Please submit your submission within <b>7 days</b> by the date of the challenge given.
+- Submit your github link to us.
