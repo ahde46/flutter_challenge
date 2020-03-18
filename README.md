@@ -7,7 +7,7 @@
 #### Objectives
 - Create a robust, well-structured skeleton app from scratch.
 
-#### Instruction
+#### Instructions
 - Open a new flutter project with latest version. (stable channel)
 - Please submit your submission within <b>7 days</b> by the date of the challenge given.
 - Upload your file into your github account and email the link to lekde@herdhr.com.
