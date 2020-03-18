@@ -4,6 +4,14 @@
 
 ## Create a todo list app
 
+#### Objectives
+- Create a robust, well-structured skeleton app from scratch.
+
+#### Instruction
+- Open a new flutter project with latest version. (stable channel)
+- Please submit your submission within <b>7 days</b> by the date of the challenge given.
+- Upload your file into your github account and email the link to lekde@herdhr.com.
+
 #### Requirements:
 - User able to add new todo task.
 - User able to check or edit the todo task.
@@ -21,8 +29,3 @@
 - Build the app by following MVP architecture.
 - User can switch app to light/dark mode.
 - Dynamic font types.
-
-#### Instruction
-- Open a new flutter project with latest version. (stable channel)
-- Please submit your submission within <b>7 days</b> by the date of the challenge given.
-- Upload your file into your github account and email the link to lekde@herdhr.com.
