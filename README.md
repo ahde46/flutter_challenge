@@ -20,7 +20,7 @@
 - Able to persist the data into local storage. (prefers sqlite)
 - Build the app by following MVP architecture.
 - User can switch app to light/dark mode.
-- Dynamic font types)
+- Dynamic font types.
 
 #### Instruction
 - Open a new flutter project with latest version. (stable channel)
